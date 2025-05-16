@@ -1,0 +1,1 @@
+# Change-Default-Home-Directory-In-Termux-Permanently
